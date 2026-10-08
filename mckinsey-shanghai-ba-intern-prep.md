@@ -35,8 +35,22 @@
 ### 1.1 Programme structure: is it an internship that converts to full-time?
 
 - **Yes, an internship with a possible full-time offer, but conversion is not automatic.** The posting says: *"you will join a client service team for 8–10 weeks, contributing to workstreams."* The McKinsey China intern listings add: *"At the end of your internship, you may receive an offer to join as a full-time business analyst after completing your degree."*
-- **Who it is for.** Undergraduates in their **penultimate year** (junior year). In some geographies, final-year undergraduates who are going on to a **one-year master's** also qualify. That case is common for UK students and may apply to you. Final-year students who graduate straight into work normally apply to the **full-time BA** role instead.
-  - Current cycle reference (US page): the intern role targets graduates of Dec 2027–Aug 2028, and full-time BA targets Dec 2026–Aug 2027. GCR recently advertised "BA (Class of 2027)" and "BA Intern (Class of 2028)".
+- **Who it is for.** Eligibility is set by **graduation year ("class")**, not by year of study. In the current Greater China cycle (announced 17 Jul 2026):
+  - **Summer Business Analyst (intern) = Class of 2028.** That means you graduate around Dec 2027–Aug 2028, so you are in your **penultimate year now** and would intern in **summer 2027**.
+  - **Business Analyst (full-time) = Class of 2027.** That means you are in your **final year now** and would join after graduating in 2027.
+  - **Exception:** a final-year undergraduate going straight into a **one-year master's** (graduating 2028) can count as Class of 2028 and apply as an intern ("in some geographies").
+  - GCR deadlines this cycle:
+
+    | Your university is in | Full-time BA (2027) | Intern (2028) |
+    |---|---|---|
+    | UK | **12 Oct 2026** | 14 Jan 2027 |
+    | Mainland China | 23 Aug 2026 | 27 Dec 2026 |
+    | Hong Kong | 23 Aug 2026 | 23 Aug 2026 |
+    | North America | 11 Aug 2026 | 11 Aug 2026 |
+    | Other | 23 Aug 2026 | 27 Dec 2026 |
+
+  - The same pattern held in 2024: GCR recruited "BA for class of 2025" alongside "BA Intern for class of 2026".
+  - **If you are final-year with no master's planned, raise it with Daphne** and ask about the full-time BA track. The UK deadline for that track is 12 Oct 2026.
 - **Timing.** GCR runs summer internships plus **off-cycle "Start ASAP" internships** in Beijing, Shanghai and Shenzhen. Off-cycle hires are made year-round, so this one could be either.
   - Daphne's email says "Business Analyst position" while your link is the BA *Intern* posting. **Ask her which track and start window you are being considered for** (see §2.7).
 - **Conversion rates.** US prep sites estimate that roughly 80–90% of US summer interns get return offers. That figure is unverified and not GCR-specific, so treat it as directional only.
@@ -328,3 +342,63 @@ McKinsey does **not publish client names**. Never name or guess clients in an in
 - McKinsey, what we learned building Lilli: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/what-mckinsey-learned-while-creating-its-generative-ai-platform
 
 *Caveat: McKinsey's own pages blocked direct fetching, so some figures come from press coverage or third-party prep sites, as marked. Check exact numbers in the original report before quoting them in a later round.*
+
+---
+
+## 6. Scripts: Why consulting / Why McKinsey
+
+Fill the `[brackets]` with **your own** examples. A real, specific example matters more than polished wording. Aim for 60–75 seconds each, and say the headline first.
+
+### 6.1 Why consulting (English, about 60 seconds)
+
+> I want to start my career in consulting for three reasons.
+>
+> **First, I enjoy structured problem-solving on messy, ambiguous questions.** When I `[experience, e.g. "worked on X during my internship at Y" / "led our team's Z project"]`, the part I enjoyed most was `[breaking a vague question into pieces, finding data to test each piece, and turning it into one clear recommendation]`. That's essentially what consultants do every day.
+>
+> **Second, the learning curve.** Consulting lets me see different industries and functions in a short time, get feedback constantly, and learn from people who are much better than me. I don't think any other early-career job compresses learning like that.
+>
+> **Third, impact.** I want my work to change what an organisation actually does. Right now Chinese companies are moving from growing *bigger* to growing *stronger*, and from exporting products to really operating overseas. Meanwhile multinationals are rethinking their China strategy. Helping leaders make those decisions is the work I want to do.
+>
+> So consulting is the best place for me to build that toolkit early in my career.
+
+### 6.2 Why McKinsey (English, about 75 seconds)
+
+> Three things draw me to McKinsey specifically.
+>
+> **First, the people and the apprenticeship model.** `[Optional: "When I spoke with ___ / attended the Life as a BA webinar…"]` What stood out was how much senior colleagues invest in juniors: frequent coaching, strengths-based development, and a mentor and a development manager looking after your growth. At the start of my career, that matters most to me.
+>
+> **Second, McKinsey's position in China.** McKinsey has been in China since 1993 and works with both multinationals and Chinese private companies. That puts the Shanghai office right at the intersection I care about: multinationals building "China for China" strategies, and Chinese companies going global. I've followed Joe Ngai and Nick Leung's argument that "the next China is still China", and `[your own one-line reaction or personal link, e.g. "having grown up in China and studied in the UK, I see both sides of that story"]`.
+>
+> **Third, how McKinsey is reinventing the work itself with AI**: Lilli, AI agents, QuantumBlack. The analyst's value is shifting from producing slides to judgment, synthesis and working with clients. I'd like to learn consulting where that change is already happening.
+>
+> That combination is why McKinsey Shanghai is where I most want to start.
+
+### 6.3 中文版（如果 Daphne 切换普通话）
+
+**Why consulting**
+
+> 我想从咨询开始职业生涯，主要有三个原因。
+> **第一，我喜欢解决模糊、复杂的问题。** 在`[某段经历]`中，我最享受的是把一个复杂问题拆解开，再用数据逐一验证，最后形成清晰的建议。这本质上就是咨询的日常工作。
+> **第二，成长速度。** 咨询能让我在短时间内接触不同行业和职能，持续得到反馈，并向非常优秀的人学习。这种学习密度是其他工作很难提供的。
+> **第三，影响力。** 我希望自己的工作能真正改变一个组织的决策。现在中国企业正在从"做大"走向"做强"，从产品出海走向本地化经营；跨国公司也在重新思考中国战略。我很希望参与帮助企业做这些关键决策。
+> 所以对我来说，咨询是职业早期打下这套能力最好的地方。
+
+**Why McKinsey**
+
+> 我选择麦肯锡主要有三点原因。
+> **第一，人和培养体系。** `[可选：和XX交流 / 参加宣讲会时]`让我印象最深的是资深同事对新人的投入：持续的辅导、基于优势的培养，还有导师和专门的发展经理。对刚起步的我来说，这一点最重要。
+> **第二，麦肯锡在中国的位置。** 麦肯锡1993年进入中国，同时服务跨国公司和中国民营企业。上海办公室正好处在我最感兴趣的交汇点：一边是跨国公司的"在中国、为中国"战略，一边是中国企业出海。我读过倪以理（Joe Ngai）和 Nick Leung "下一个中国还是中国"的观点，`[一句你自己的看法或个人联系]`。
+> **第三，麦肯锡正在用 AI 重塑咨询工作本身**，比如 Lilli、AI 智能体和 QuantumBlack。分析师的价值正在从做 PPT 转向判断和提炼洞见，我希望在这种变化已经发生的地方学习。
+> 这几点加在一起，就是我最想加入麦肯锡上海的原因。
+
+### 6.4 Likely follow-ups (one-line answers)
+
+| Follow-up | Answer direction |
+|---|---|
+| "Why not BCG or Bain?" | Never criticise them. Say what's distinctive about McKinsey: one-firm global partnership and scale, the depth of research and knowledge (MGI, Lilli), the apprenticeship culture, and 30+ years in China. Add what you heard from McKinsey people specifically. |
+| "Why not banking or a corporate job?" | Consulting gives breadth across problems, not depth in one product or deal type. You want to learn *how to solve problems*, then decide where to specialise. |
+| "What do you think a BA actually does?" | Owns a piece of the workstream: research and data, expert and client interviews, synthesis into pages, presenting to the client, all with daily coaching from the EM. |
+| "What would you bring?" | Two strengths backed by evidence from your CV (e.g. analytical skill + bilingual and cross-cultural experience). |
+| "Which industries interest you?" | Name one or two (e.g. consumer, auto/EV, Chinese brands going global) and say you're happy to be a generalist. |
+
+**Avoid:** prestige, exit options, money, generic "I like learning", or listing McKinsey facts without linking them to yourself.
