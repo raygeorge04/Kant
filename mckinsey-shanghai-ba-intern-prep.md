@@ -402,3 +402,50 @@ Fill the `[brackets]` with **your own** examples. A real, specific example matte
 | "Which industries interest you?" | Name one or two (e.g. consumer, auto/EV, Chinese brands going global) and say you're happy to be a generalist. |
 
 **Avoid:** prestige, exit options, money, generic "I like learning", or listing McKinsey facts without linking them to yourself.
+
+---
+
+## 7. Reading list: the best reports, with links
+
+**Short on time? Read these three first (about 30 minutes):** 1 → 4 → 7.
+
+### McKinsey on China
+1. **McKinsey China Week 2026: event recap** (web, English)
+   - https://www.mckinsey.com/cn/our-insights/our-insights/mckinsey-china-week-2026
+   - Gives you GCR leadership's 2026 storyline ("bigger → stronger", AI, family businesses, going global) in one page.
+2. **What global executives need to ask about China in 2026** (Joe Ngai & Jeongmin Seong, MGI; web, English)
+   - https://www.mckinsey.com/mgi/media-center/what-global-executives-need-to-ask-about-china-in-2026
+   - Five questions covering tariffs, consumers, involution, Chinese competitors abroad and Chinese AI. The best one-article summary of McKinsey's China view.
+3. ***The Next China Is Still China*** (book page, English)
+   - https://www.mckinsey.com/featured-insights/mckinsey-on-books/the-next-china-is-still-china
+   - Read with the Fortune interview: https://fortune.com/2026/06/04/next-china-still-china-mckinsey-joe-ngai-nick-leung/
+4. **2026 McKinsey China Auto Consumer Survey**
+   - English launch page: https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026
+   - Chinese full write-up: https://www.mckinsey.com.cn/%E3%80%8A2026%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E8%80%85%E6%B4%9E%E5%AF%9F%E3%80%8B-%E4%BA%94%E5%A4%A7%E6%96%B0%E8%B6%8B%E5%8A%BF/
+   - A concrete, data-rich example of Shanghai-office work. Five trends.
+5. **China Consumption Update: What's new in the Year of the Horse?** (web, English)
+   - https://www.mckinsey.com/cn/our-insights/our-insights/china-consumption-update-what-is-new-in-the-year-of-the-horse
+6. **Geopolitics and the geometry of global trade: 2026 update** (MGI, PDF, English)
+   - https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/our%20research/geopolitics%20and%20the%20geometry%20of%20global%20trade%202026%20update/geopolitics-and-the-geometry-of-global-trade-2026-update.pdf
+   - Long. Skim the executive summary and the China section only.
+
+### AI
+7. **The state of AI in 2026: On the road to ROI** (25 Aug 2026)
+   - Web: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+   - PDF: https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/the-state-of-ai-in-2026-on-the-road-to-roi.pdf
+   - Read the key findings at the start: agents, ROI, high performers.
+8. **The State of Organizations 2026** (the "agentic organization")
+   - Web (English): https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations
+   - PDF: https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations/2026/the-state-of-organizations-2026.pdf
+   - Chinese summary: https://www.mckinsey.com.cn/2026%E9%BA%A6%E8%82%AF%E9%94%A1%E7%BB%84%E7%BB%87%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A%EF%BC%9A%E6%94%B9%E5%8F%98%E7%BB%84%E7%BB%87%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B8%89%E8%82%A1%E5%8A%9B%E9%87%8F/
+9. **AI in Chinese companies: McKinsey's global AI survey, China cut** (Chinese, web)
+   - https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%80%E6%96%B0%E8%B0%83%E7%A0%94%EF%BC%9Aai%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9A%84%E8%90%BD%E5%9C%B0/
+10. **Generative AI in China: $2 trillion of economic value** (Chinese, web; an older but still widely cited piece)
+    - https://www.mckinsey.com.cn/%E7%94%9F%E6%88%90%E5%BC%8Fai%E5%9C%A8%E4%B8%AD%E5%9B%BD%EF%BC%9A2%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%BB%8F%E6%B5%8E%E4%BB%B7%E5%80%BC/
+11. **What McKinsey learned building Lilli** (web, English)
+    - https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/what-mckinsey-learned-while-creating-its-generative-ai-platform
+    - Useful for "how AI changes the BA job".
+
+### Index pages
+- McKinsey China 2026 hub (Chinese): https://www.mckinsey.com.cn/2026/
+- McKinsey Greater China insights (English): https://www.mckinsey.com/cn/our-insights/our-insights
